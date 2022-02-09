@@ -1,0 +1,23 @@
+{
+  "name": "eluvio_oa",
+  "version": "1.0.0",
+  "description": "option2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuancanZhang/eluviosde_oa.git"
+  },
+  "author": "yuancanZhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuancanZhang/eluviosde_oa/issues"
+  },
+  "homepage": "https://github.com/YuancanZhang/eluviosde_oa#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
